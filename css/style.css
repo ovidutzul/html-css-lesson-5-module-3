@@ -1,0 +1,22 @@
+body {
+  background-color: #202020;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+.wrapper h1 {
+  color: #fff;
+}
+
+.wrapper {
+  /* border-width: 5px;
+  border-style: dashed;
+  border-color: tomato; */
+
+  width: 200px;
+  /* box-sizing: border-box; */
+
+  text-align: center;
+  border: 5px dashed tomato;
+  padding: 100px 100px 100px 50px;
+  margin: 100px 150px;
+}
